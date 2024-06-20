@@ -3,7 +3,7 @@
 
 # Informacion de Contacto
 - **Email:** [barretosanchez6@gmail.com](mailto:barretosanchez6@gmail.com)
-- **LinKedIn:** [mainrdsniper09](www.linkedin.com/in/mainrdsniper09)
+- **LinKedIn:** [mainrdsniper09](https://www.linkedin.com/in/mainrdsniper09/)
 - **GitHub:** [MainRDSniper09](https://github.com/MainRDSniper09)
 - **Ubicacion:** Colombia, Bogota Dc
 
