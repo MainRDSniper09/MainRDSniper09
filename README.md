@@ -11,14 +11,6 @@
 
 <br>
 
-## Competitive Programming
-
-<div align="center">
-<a href="https://codeforces.com/profile/MainRDSniper09"><img alt = "Codeforces" src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white" target="_blank"  /></a>	
-<a href="https://leetcode.com/MainRDSniper09/"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" target="_blank" /></a>
-<a href="https://www.hackerrank.com/profile/barretosanchez6"><img alt = "Hackerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white" target="_blank"  /></a>
-</div>
-
 # Informacion de Contacto
 - **Email:** [barretosanchez6@gmail.com](mailto:barretosanchez6@gmail.com)
 - **LinKedIn:** [mainrdsniper09](https://www.linkedin.com/in/mainrdsniper09/)
@@ -75,6 +67,16 @@ I am always eager to expand my skill set and take on new challenges in the field
 - ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 - ![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
 
+## Competitive Progamming
+
+### Codeforces
+![Codeforces](https://img.shields.io/badge/dynamic/json?color=1f8acb&label=Codeforces&query=%24.rating&url=https://competitive-coding-api.herokuapp.com/api/codeforces/MainRDSniper09&logo=codeforces&style=for-the-badge)
+
+### LeetCode
+![LeetCode](https://img.shields.io/badge/dynamic/json?color=orange&label=LeetCode&query=%24.totalSolved&url=https://leetcode-badge.chyroc.cn/?user=MainRDSniper09&logo=leetcode&style=for-the-badge)
+
+### HackerRank
+![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 
 
 ## Projects
