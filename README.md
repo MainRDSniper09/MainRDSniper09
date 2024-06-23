@@ -70,19 +70,17 @@ I am always eager to expand my skill set and take on new challenges in the field
 ## Competitive Progamming
 
 ### Codeforces
-<div align="center">
-<a href="https://codeforces.com/profile/MainRDSniper09"><img alt = "Codeforces" src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white" target="_blank"  /></a>	
-</div>
+<a href="https://codeforces.com/profile/MainRDSniper09"><img alt="Codeforces" src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white" target="_blank" /></a>	
+
+![Codeforces Rating](https://codeforces-stats-api.herokuapp.com/stats/MainRDSniper09?theme=light)
 
 ### LeetCode
-<div align="center">
-<a href="https://leetcode.com/MainRDSniper09/"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" target="_blank" /></a>
-</div>
+<a href="https://leetcode.com/MainRDSniper09/"><img alt="Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" target="_blank" /></a>
+
+![LeetCode Stats](https://leetcode-badge.chyroc.cn/?user=MainRDSniper09)
 
 ### HackerRank
-<div align="center">
-<a href="https://www.hackerrank.com/profile/barretosanchez6"><img alt = "Hackerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white" target="_blank"  /></a>
-</div>
+<a href="https://www.hackerrank.com/profile/barretosanchez6"><img alt="Hackerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white" target="_blank" /></a>
 
 
 ## Projects
