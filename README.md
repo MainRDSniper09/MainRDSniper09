@@ -1,5 +1,15 @@
-# Hi i'm Juan Nicolas Barreto Sanchez 👋
+#
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=3c99d4&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Juan+Nicolas+Barreto+Sanchez;)](https://git.io/typing-svg)
+
+<br>
+
+<div align="center" style="margin-bottom:200px">
+ <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=MainRDSniper09&theme=holi&show_icons=true" />
+ <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MainRDSniper09&layout=compact&theme=holi" />
+</div>
+
+<br>
 
 # Informacion de Contacto
 - **Email:** [barretosanchez6@gmail.com](mailto:barretosanchez6@gmail.com)
