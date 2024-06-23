@@ -81,7 +81,7 @@ I am always eager to expand my skill set and take on new challenges in the field
 
 ### HackerRank
 <div align="center">
-<a href="https://www.hackerrank.com/profile/MainRDSniper09"><img alt = "Hackerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white" target="_blank"  /></a>
+<a href="https://www.hackerrank.com/profile/barretosanchez6"><img alt = "Hackerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white" target="_blank"  /></a>
 </div>
 
 
