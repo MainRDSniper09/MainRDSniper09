@@ -93,3 +93,7 @@ It consists in that the user can manipulate a database which is called user, by 
 
 ## Interests
 - **Software Development:** Always learning new technologies and best practices.
+
+## Licencia
+Este contenido está bajo la licencia [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
