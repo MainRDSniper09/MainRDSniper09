@@ -76,15 +76,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MainRDSniper09&show_icons=true&theme=holi" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MainRDSniper09&layout=compact&theme=holi" />
-</div>
-
----
-
 ## 🏆 Competitive Programming
 
 - Codeforces: https://codeforces.com/profile/MainRDSniper09
