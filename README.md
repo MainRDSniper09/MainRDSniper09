@@ -4,13 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=3c99d4&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;Juan+Nicolas+Barreto+Sanchez;Software+Developer+.NET+%26+Java" />
 </div>
 
-<br>
-
-<div align="center">
- <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=MainRDSniper09&theme=holi&show_icons=true" />
- <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MainRDSniper09&layout=compact&theme=holi" />
-</div>
-
 ---
 
 ## 📍 About Me
